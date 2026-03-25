@@ -5,7 +5,7 @@ url: "https://kai-qia.github.io"
 baseurl: ""
 
 # Google tracking id
-google-tracking-id: "UA-XXXXXXXX-X"
+google-tracking-id: False
 
 #############
 # HTML Head #
