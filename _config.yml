@@ -12,10 +12,10 @@ google-tracking-id: "UA-XXXXXXXX-X"
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Kaitlyn"
+title: "Kaitlyn"
+description: "about me."
+keywords: ""
 favicon: "/img/favicon.ico"
 ################
 # Header layout#
@@ -33,7 +33,7 @@ me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-# me-img: "https://github.com/user_name.png?size=500"
+me-img: "https://github.com/kai-qia.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
